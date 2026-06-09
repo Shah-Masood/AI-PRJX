@@ -12,7 +12,8 @@ A RAG-powered research assistant for non-small cell lung cancer literature using
 An Autonomous Data analyst agent used for compiling SQL commands and generating chart using Anthropic and Langraph.
 
 ### Phase 3 — Full AI Engineering
-Coming soon...
+**[GraphRAG Supply Chain Risk Analyzer](https://github.com/Shah-Masood/GraphRAG_Supply_Chain_Risk_Analyzer)**
+A production-oriented, stateful AI system that monitors global supply chain risk in real time using Neo4j, ChromaDB, LangGraph, and live news ingestion.
 
 ### Phase 4 — MLOps/LLMOps
 Coming soon...
