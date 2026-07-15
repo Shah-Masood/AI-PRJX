@@ -15,5 +15,3 @@ An Autonomous Data analyst agent used for compiling SQL commands and generating 
 **[GraphRAG Supply Chain Risk Analyzer](https://github.com/Shah-Masood/GraphRAG_Supply_Chain_Risk_Analyzer)**
 A production-oriented, stateful AI system that monitors global supply chain risk in real time using Neo4j, ChromaDB, LangGraph, and live news ingestion.
 
-### Phase 4 — MLOps/LLMOps
-Coming soon...
