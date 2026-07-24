@@ -15,3 +15,7 @@ An Autonomous Data analyst agent used for compiling SQL commands and generating 
 **[GraphRAG Supply Chain Risk Analyzer](https://github.com/Shah-Masood/GraphRAG_Supply_Chain_Risk_Analyzer)**
 A production-oriented, stateful AI system that monitors global supply chain risk in real time using Neo4j, ChromaDB, LangGraph, and live news ingestion.
 
+### Phase 3 — Full AI Engineering Continued
+**[Credit Risk Intelligence](https://github.com/Shah-Masood/Credit-Risk-Intelligence)**
+Production-grade GraphRAG + Agentic AI system for real-time credit risk analysis. Combines Neo4j knowledge graph traversal, Pinecone vector search, MCP financial data tools, and LangGraph agent orchestration to assess counterparty exposure, cascade risk, and credit signals across global financial institutions.
+
